@@ -18,82 +18,124 @@
 {% endraw %}
 
 
-This one deserves to *breathe*. The key is to make the metaphor land simultaneously in **biology, infrastructure, and informatics**, without any one of them feeling decorative. Here’s the refined articulation, ready for WHO-India’s 9:00 a.m. moment:
+# From Flow to Knowing
+## The Nervous System of Evidence
+
+### Why This Matters Now
+
+Think of the last time you flew through a major airport. You didn't see the complexity — you just moved through it. Security, gates, baggage, transit trains — all synchronized so you could focus on your destination, not the infrastructure.
+
+**That's what we're building for WHO-India's evidence system.**
 
 ---
 
-## Title: *From Flow to Knowing — The Nervous System of Evidence*
+## The Mirror: Three Systems, One Logic
 
-### 1. Equation (anchor concept)
+Your body's nervous system, a modern airport, and an AI-powered evidence pipeline all solve the same problem: **getting the right signal to the right place at the right time.**
 
-> **Ideal AI = Ideal Engineering = dE/dt → 0**
-> *Signal at equilibrium = zero waste, zero delay, maximum integrity.*
+| **Biology** | **Infrastructure** | **Evidence Work** |
+|-------------|-------------------|-------------------|
+| Peripheral nerves gather touch, temperature, pain | Airport gates collect passengers, cargo, information | Data sensors capture field reports, literature, program metrics |
+| Ascending pathways carry signals toward the brain | Inbound concourses funnel travelers to central terminals | Data pipelines aggregate and clean inputs |
+| Spinal cord integrates and prioritizes | Central terminal spine routes and coordinates | Compute layer analyzes, synthesizes, flags priorities |
+| Descending pathways send commands outward | Outbound concourses distribute to departure gates | Action pipelines generate briefs, dashboards, recommendations |
+| Motor nerves execute actions in the world | Planes, roads, deliveries reach their destinations | Policy interfaces, program adjustments, real-time guidance |
 
-Interpretation:
-Every system — body, airport, or AI — seeks a **steady signal state**: no turbulence between sensing and response. Efficiency here doesn’t mean *speed for its own sake*, but *timely resonance*: the right rate for the right context.
-
----
-
-### 2. The Schema (`O)-(O)`)
-
-*(Think of this as a vertical cut through a living airport-neural system.)*
-
-#### **Ingress → CNS → Egress**
-
-| Biological                       | Infrastructural        | Informatic            | Function                                |
-| -------------------------------- | ---------------------- | --------------------- | --------------------------------------- |
-| **Peripheral Nerves**            | Gates & Access Points  | Data Sensors & APIs   | Collect inputs (people, supplies, data) |
-| **Ascending Tracts**             | Inbound Concourses     | Data Pipelines        | Carry signals toward decision core      |
-| **CNS / Airtrain Spine**         | Central Terminal Spine | Compute & Model Layer | Integrate, prioritize, route signals    |
-| **Descending Tracts**            | Outbound Concourses    | Action Pipelines      | Send decisions and commands outward     |
-| **Peripheral Nerves (Efferent)** | Planes, Roads, Outputs | UX, Policy Interfaces | Deliver outcomes back to world          |
-
-CSF = data liquidity — the medium through which verified evidence circulates.
-Plexuses (A–F, Cervical–Sacral) = domain clusters (NCDs, TB, AYUSH, UHC, etc).
-The rate of flow between these determines system health.
+**The fluid that makes it work?**  
+- In your body: cerebrospinal fluid  
+- In airports: digital coordination systems  
+- In evidence systems: **trusted data liquidity**
 
 ---
 
-### 3. Variant Parables (optional side panel)
+## The Inverted Stack (How Value Actually Flows)
 
-**Pharmacokinetic analogy (THC):**
-Different routes of entry = different signal rates.
-The art is controlling $dE_x/dt$: enough diffusion to reach the receptors (insight), not so much as to trigger turbulence (information overload).
+Most people think AI starts with technology. It doesn't. It starts with **outcomes**.
 
-**AI value-chain analogy:**
+Here's the revenue reality — traced backward from what matters:
 
-| Layer      | Archetype | Function            | Energy Notation                        |     
-| ---------- | --------- | ------------------- | -------------------------------------- |  
-| Sensing    | Oracle    | Data generation     | $(E, x)$                               |        
-| Processing | Microsoft | Structured analysis | $E(t\mid x + ε)$                       | 
-| Throughput | Nvidia    | Compute rate        | $dE_x/dt$                              |        
-| Inference  | OpenAI    | Networked reasoning | $dE_{\bar{x}}/dt ± \sqrt{d^2E_x/dt^2}$ |         
-| Value      | Markets   | Accumulated benefit | $\int E_x dt + εt + C_x$               |         
+### 5. **Value** (Markets)
+*The accumulated benefit when everything works*  
+**Example:** Policy officers making faster, better-informed decisions. Programs adapting in real-time. Resources reaching the right populations.
 
-This stack mirrors the **neural hierarchy**: sensation → integration → decision → action → feedback.
+↑ *This only exists because of...*
 
----
+### 4. **Inference** (OpenAI, Anthropic)
+*Networked reasoning at scale*  
+**Example:** AI reads 10,000 malaria studies overnight, surfaces the 3 contradictions that matter, flags the emerging pattern your team needs to see Monday morning.
 
-### 4. WHO-India Application
+↑ *Which only works because of...*
 
-Frame this as a *living workflow* rather than a tech layer.
+### 3. **Throughput** (Nvidia, Compute Infrastructure)
+*The rate at which questions can be answered*  
+**Example:** Query response in seconds, not weeks. Synthesis that keeps pace with your decision cycles.
 
-* **Ingress:** literature, field reports, multilingual sources
-* **CNS:** automated synthesis, AI-human curation loops
-* **Egress:** policy briefs, program adjustments, real-time dashboards
-   - **Goal:** *Hybrid Intelligence*
-   - Officers remain the conscious cortex
-   - AI becomes the spinal automation.
+↑ *Which requires...*
 
-Thus, *Ukubona’s forest* = the **myelination** of WHO-India’s decision spine: more insulation, faster transmission, less burnout.
+### 2. **Processing** (Microsoft, Data Platforms)
+*Structured analysis and storage*  
+**Example:** Clean pipelines that turn messy field data and PDFs into queryable knowledge.
 
----
+↑ *Which begins with...*
 
-### 5. Closing Line for Slide 3
-
-> “When signal delay vanishes, knowledge becomes reflex.
-> That is what $dE/dt ≈ 0$ feels like — the system knowing itself.”
+### 1. **Sensing** (Oracle, Data Generation)
+*Raw input from the world*  
+**Example:** Every district report, every published study, every community health worker's observation.
 
 ---
 
-Would you like me to render this next as a **[single diagram](https://ukb-dt.github.io/who-03-schema/)** — visually integrating the airport, neural, and AI-flow metaphors — formatted for a WHO-India slide (simple vector, minimal text, 90-second readability)?
+## What This Means for WHO-India
+
+**You're not building a tech layer. You're building a living workflow.**
+
+### Current State:
+- Officers spend 60% of time *finding* evidence, 40% *using* it
+- Signal delay between field reality and policy response: weeks to months
+- Burnout from repetitive synthesis work
+
+### Target State:
+- AI handles the spinal automation (ingestion, cleaning, routing, initial synthesis)
+- Officers remain the conscious decision-makers (judgment, priority, context)
+- **Signal delay approaching zero** — system knowing itself in real-time
+
+### The Six Domain Clusters (Your Neural Plexuses):
+Just like your spine has cervical, thoracic, lumbar regions serving different body parts, your evidence system serves different program domains:
+
+- **NCDs** (cardiovascular, cancer, diabetes, respiratory)
+- **Tuberculosis** (detection, treatment, resistance monitoring)
+- **AYUSH** (traditional medicine integration)
+- **UHC** (universal health coverage coordination)
+- **Maternal & Child Health**
+- **Emerging Threats** (pandemic preparedness, climate-health)
+
+Each cluster has its own sensors, its own decision cadence, its own delivery mechanisms — but they all flow through the same central spine.
+
+---
+
+## The Goal (In Plain Language)
+
+**When signal delay vanishes, knowledge becomes reflex.**
+
+You don't think about walking. Your nervous system handles millions of micro-adjustments automatically, freeing your conscious mind for higher-order decisions.
+
+That's the state we're aiming for:
+- Routine evidence synthesis: automated
+- Anomaly detection: instant alerts
+- Officer attention: focused on judgment calls AI can't make
+
+**Maximum flow. Minimum friction. Zero waste.**
+
+---
+
+## Next Steps
+
+This brief establishes the conceptual foundation. The technical appendix (separate document) provides the mathematical framework and implementation details for your data science and engineering teams.
+
+**For today's discussion:**
+1. Does this mental model resonate with your current workflow pain points?
+2. Which domain cluster should we prototype first?
+3. What does "signal delay approaching zero" look like for your highest-stakes decisions?
+
+---
+
+*Prepared for WHO-India Leadership | Math-Free Zone | Technical Appendix Available Separately*
