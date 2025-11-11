@@ -138,4 +138,4 @@ This brief establishes the conceptual foundation. The technical appendix (separa
 
 ---
 
-*Prepared for WHO-India Leadership | Math-Free Zone | Technical Appendix Available Separately*
+*Prepared for WHO-India Leadership | Math-Free Zone | [Technical Appendix]() Available Separately*
