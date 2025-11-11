@@ -81,7 +81,9 @@ Frame this as a *living workflow* rather than a tech layer.
 * **Ingress:** literature, field reports, multilingual sources
 * **CNS:** automated synthesis, AI-human curation loops
 * **Egress:** policy briefs, program adjustments, real-time dashboards
-* **Goal:** *Hybrid Intelligence* — officers remain the conscious cortex, AI becomes the spinal automation.
+   - **Goal:** *Hybrid Intelligence*
+   - Officers remain the conscious cortex
+   - AI becomes the spinal automation.
 
 Thus, *Ukubona’s forest* = the **myelination** of WHO-India’s decision spine: more insulation, faster transmission, less burnout.
 
