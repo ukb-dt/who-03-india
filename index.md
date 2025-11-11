@@ -94,4 +94,4 @@ Thus, *Ukubona’s forest* = the **myelination** of WHO-India’s decision spine
 
 ---
 
-Would you like me to render this next as a **single diagram** — visually integrating the airport, neural, and AI-flow metaphors — formatted for a WHO-India slide (simple vector, minimal text, 90-second readability)?
+Would you like me to render this next as a **[single diagram](https://ukb-dt.github.io/who-03-schema/)** — visually integrating the airport, neural, and AI-flow metaphors — formatted for a WHO-India slide (simple vector, minimal text, 90-second readability)?
